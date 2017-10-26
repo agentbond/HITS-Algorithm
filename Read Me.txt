@@ -1,0 +1,8 @@
+> HITS Algo includes below file :
+      Klein_HITS_Algo_3597.java
+  
+> commands for HITS algo:
+  1. javac Klein_HITS_Algo_3597.java
+  2. java Klein_HITS_Algo_3597 iteration initialvalue filename
+
+
